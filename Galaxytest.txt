@@ -1,0 +1,8 @@
+- Changelog is not working: couldn't load changelog file /pl-PL.html
+
+- Problem with installing games via GOG Galaxy: when clicking Library->All My Games-> and trying 
+to install any game I can see the window where I can choose the language
+and destination folder, then click Continue and get crash. GalaxyClient Crash Reporter shows up.
+
+- Can't change the Client language (Client in english, even if I set it to polish)
+Only Account Management section was in polish.
